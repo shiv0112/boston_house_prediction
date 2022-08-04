@@ -4,10 +4,9 @@ Project Description 📄
 ❄️ Built a linear regression model using scikit learn in boston data to
 predict 'Price' based on other dependent variable.
 
+## Deployed Project Link: https://house-price-boston.herokuapp.com/
+
 ```
-## Deployed Project Link:  https://house-price-boston.herokuapp.com/
-
-
 Data:
 :Number of Instances: 506
 
@@ -34,26 +33,26 @@ Data:
 
 ## Website UI video:
 
-![Alt text](https://github.com/shiv0112/faceRecog_automation/blob/main/images/shiv_face.gif?raw=true)
+![Alt text](https://github.com/shiv0112/boston_house_prediction/blob/master/screenshots/website.gif)
 
 ### Index page of Website:
 
-![Alt text](https://github.com/shiv0112/faceRecog_automation/blob/main/images/whatsapp.png)
-![Alt text](https://github.com/shiv0112/faceRecog_automation/blob/main/images/email.jpeg)
+![Alt text](https://github.com/shiv0112/boston_house_prediction/blob/master/screenshots/1.png)
+![Alt text](https://github.com/shiv0112/boston_house_prediction/blob/master/screenshots/2.png)
 
 ### Data Input from user:
 
-![Alt text](https://github.com/shiv0112/faceRecog_automation/blob/main/images/whatsapp.png)
-![Alt text](https://github.com/shiv0112/faceRecog_automation/blob/main/images/email.jpeg)
+![Alt text](https://github.com/shiv0112/boston_house_prediction/blob/master/screenshots/3.png)
+![Alt text](https://github.com/shiv0112/boston_house_prediction/blob/master/screenshots/4.png)
 
 ## Finally prediction displayed:
 
-![Alt text](https://github.com/shiv0112/faceRecog_automation/blob/main/images/whatsapp.png)
+![Alt text](https://github.com/shiv0112/boston_house_prediction/blob/master/screenshots/final.png)
 
 ### What I learnt from this project:
 
--->How to work with CV2 python library
+-->How to build an end to end project on Machine Learning
 
--->How to detect face and recognize them
+-->What is the folder structure of a project
 
--->How to integrate AWS and WhatsApp API to python code
+-->How to make frontend using Flask framework
