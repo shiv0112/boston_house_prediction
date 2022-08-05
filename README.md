@@ -9,8 +9,9 @@ predict 'Price' based on other dependent variable.
 
 ##### Jupyter Notebook: (https://github.com/shiv0112/boston_house_prediction/blob/master/notebook/Linear_reg.ipynb)
 
+## Data:
+
 ```
-Data:
 :Number of Instances: 506
 
     :Number of Attributes: 13 numeric/categorical predictive. Median Value (attribute 14) is usually the target.
@@ -33,10 +34,6 @@ Data:
    - Belsley, Kuh & Welsch, 'Regression diagnostics: Identifying Influential Data and Sources of Collinearity', Wiley, 1980. 244-261.
    - Quinlan,R. (1993). Combining Instance-Based and Model-Based Learning. In Proceedings on the Tenth International Conference of Machine Learning, 236-243, University of Massachusetts, Amherst. Morgan Kaufmann.
 ```
-
-## Website UI video:
-
-![Alt text](https://github.com/shiv0112/boston_house_prediction/blob/master/screenshots/website.gif)
 
 ### Index page of Website:
 
