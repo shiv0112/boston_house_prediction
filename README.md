@@ -5,8 +5,6 @@ Project Description 📄
 ❄️ Built a linear regression model using scikit learn in boston data to
 predict 'Price' based on other dependent variable.
 
-#### Deployed Project Link: https://house-price-boston.herokuapp.com/
-
 ##### Jupyter Notebook: (https://github.com/shiv0112/boston_house_prediction/blob/master/notebook/Linear_reg.ipynb)
 
 ## Data:
